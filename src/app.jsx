@@ -1,7 +1,6 @@
-import PocketBase from '../pocketbase.umd.js'
 
-const USERNAME = 'ADMIN_EMAIL'
-const PASSWORD = 'ADMIN_PASSWORD'
+const USERNAME = 'randell@example.com'
+const PASSWORD = 'randelllapid'
 
 const pb = new PocketBase('http://127.0.0.1:8090')
 
