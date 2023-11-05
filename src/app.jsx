@@ -1,3 +1,5 @@
+import PocketBase from '../pocketbase.umd.js'
+
 const USERNAME = 'ADMIN_EMAIL'
 const PASSWORD = 'ADMIN_PASSWORD'
 
